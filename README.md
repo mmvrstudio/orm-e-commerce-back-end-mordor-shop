@@ -10,6 +10,7 @@
 
 
 # Description:
+    This is the back end of an e-commerce website, built with the Express.js API that was configured to use Sequelize, to interact with a MySQL database.
 
 # Installation and Usage (All Steps):
     1 - In your VS Studio Integrated terminal type: npm i 
