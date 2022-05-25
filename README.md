@@ -12,10 +12,9 @@
 # Description:
 
 # Installation and Usage (All Steps):
-    1 - npm i 
+    1 - In your VS Studio Integrated terminal type: npm i 
 
-    2 - Connect to MYSQL Database 
-    Credentials to access the database:
+    2 - Open MySQL Workbench and connect to the Database with the following credentials (must be exactely the same as seen in the ' .env ' file): 
     DB_NAME: ecommerce_db 
     DB_USER: root
     DB_PW: mariana123
